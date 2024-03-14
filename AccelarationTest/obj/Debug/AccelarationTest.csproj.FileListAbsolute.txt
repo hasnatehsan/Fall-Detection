@@ -1,0 +1,13 @@
+F:\Fall_Detection\Fall_fall\AccelarationTest\bin\Debug\AccelarationTest.exe.config
+F:\Fall_Detection\Fall_fall\AccelarationTest\bin\Debug\AccelarationTest.exe
+F:\Fall_Detection\Fall_fall\AccelarationTest\bin\Debug\AccelarationTest.pdb
+F:\Fall_Detection\Fall_fall\AccelarationTest\bin\Debug\websocket-sharp.dll
+F:\Fall_Detection\Fall_fall\AccelarationTest\obj\Debug\AccelarationTest.csproj.AssemblyReference.cache
+F:\Fall_Detection\Fall_fall\AccelarationTest\obj\Debug\AccelarationTest.csproj.SuggestedBindingRedirects.cache
+F:\Fall_Detection\Fall_fall\AccelarationTest\obj\Debug\AccelarationTest.csproj.CoreCompileInputs.cache
+F:\Fall_Detection\Fall_fall\AccelarationTest\obj\Debug\AccelarationTest.csproj.CopyComplete
+F:\Fall_Detection\Fall_fall\AccelarationTest\obj\Debug\AccelarationTest.exe
+F:\Fall_Detection\Fall_fall\AccelarationTest\obj\Debug\AccelarationTest.pdb
+F:\Fall_Detection\Fall_fall\AccelarationTest\bin\Debug\Newtonsoft.Json.dll
+F:\Fall_Detection\Fall_fall\AccelarationTest\bin\Debug\Newtonsoft.Json.xml
+F:\Fall_Detection\Fall_fall\AccelarationTest\bin\Debug\Json.Net.dll
